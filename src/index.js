@@ -1,17 +1,17 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './index.css';
 import App from './App';
-import reportWebVitals from './reportWebVitals';
 
-ReactDOM.render(
-  <React.StrictMode>
-    <App />
-  </React.StrictMode>,
-  document.getElementById('root')
-);
+const root = document.getElementById("root")
 
-// If you want to start measuring performance in your app, pass a function
-// to log results (for example: reportWebVitals(console.log))
-// or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
-reportWebVitals();
+//NO JSX
+//const element = React.createElement(component,properties,childs)
+//const element = React.createElement("h1",{className:"greetings"},"Hey there!")
+
+//JSX
+//const element = <h1 className="greetings">Hey there!</h1>
+//ReactDOM.render(element,root);
+
+//Inserción de Componente App
+
+ReactDOM.render(<App />,root) //Importante el cierre.

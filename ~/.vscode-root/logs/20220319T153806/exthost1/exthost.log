@@ -1,0 +1,40 @@
+[2022-03-19 15:38:11.525] [exthost] [info] Extension host with pid 21015 started
+[2022-03-19 15:38:11.958] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-03-19 15:38:11.980] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.github
+[2022-03-19 15:38:12.027] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-03-19 15:38:12.223] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-03-19 15:38:12.623] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-03-19 15:38:12.762] [exthost] [info] Eager extensions activated
+[2022-03-19 15:38:12.827] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-03-19 15:38:12.877] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-03-19 15:38:15.748] [exthost] [info] extension host terminating: renderer closed the socket
+[2022-03-19 15:38:15.760] [exthost] [info] Extension host with pid 21015 exiting with code 0
+[2022-03-19 15:38:19.424] [exthost] [info] Extension host with pid 21084 started
+[2022-03-19 15:38:19.424] [exthost] [info] Skipping acquiring lock for /home/ignacio/Desktop/NodeProjects/react/react-test/~/.vscode-root/User/workspaceStorage/2e23fffce1ccfa3ee7cd5ad7a1a986f5.
+[2022-03-19 15:38:19.750] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-03-19 15:38:19.823] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.github
+[2022-03-19 15:38:19.847] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-03-19 15:38:20.091] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-03-19 15:38:20.230] [exthost] [info] Eager extensions activated
+[2022-03-19 15:38:20.248] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-03-19 15:38:20.291] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-03-19 15:38:21.707] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+[2022-03-19 15:38:28.092] [exthost] [info] extension host terminating: renderer closed the socket
+[2022-03-19 15:38:28.097] [exthost] [info] Extension host with pid 21084 exiting with code 0
+[2022-03-19 15:38:31.762] [exthost] [info] Extension host with pid 21154 started
+[2022-03-19 15:38:31.762] [exthost] [info] Skipping acquiring lock for /home/ignacio/Desktop/NodeProjects/react/react-test/~/.vscode-root/User/workspaceStorage/5e760f06f6ac23640c9d3c80e7ffa316.
+[2022-03-19 15:38:31.981] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-03-19 15:38:31.992] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.github
+[2022-03-19 15:38:31.995] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-03-19 15:38:32.026] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm, startup: true, activationEvent: 'workspaceContains:package.json'
+[2022-03-19 15:38:32.337] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-03-19 15:38:32.508] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-03-19 15:38:32.668] [exthost] [info] Eager extensions activated
+[2022-03-19 15:38:32.732] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-03-19 15:38:32.760] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-03-19 15:38:34.734] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:javascript'
+[2022-03-19 15:38:38.953] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:json'
+[2022-03-19 15:38:38.964] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+[2022-03-19 15:38:39.058] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:json'
+[2022-03-19 15:50:53.320] [exthost] [info] ExtensionService#_doActivateExtension vscode.css-language-features, startup: false, activationEvent: 'onLanguage:css'
+[2022-03-19 23:21:31.879] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
